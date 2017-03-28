@@ -10,7 +10,8 @@
       "supertest": "1.1.0"
   },
   "scripts": {
-    "test": "for testing"
+    "test": "for testing",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
